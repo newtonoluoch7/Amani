@@ -104,7 +104,7 @@
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                             <div class="single-box">
                                 <div class="img-holder">
-                                    <img src="images/resources/mission.jpg" alt="Awesome Image">
+                                    <img src="images/resources/Missiontherapy.jpg" alt="Awesome Image">
                                 </div>
                                 <div class="text-holder">
                                     <h3>Mission</h3>

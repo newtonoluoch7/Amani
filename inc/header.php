@@ -91,8 +91,8 @@
                             </div>
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
-                                    <li class="current"><a href="index.php">Home</a></li>
-                                    <li class="dropdown"><a href="about.php">About</a>
+                                    <li class=""><a href="index.php">Home</a></li>
+                                    <li class=""><a href="about.php">About</a>
                                   
                                     </li>
                                     <li class="dropdown"><a href="coach-personal.php">Services</a>
@@ -108,7 +108,7 @@
                                             <li><a href="coach-finance.php">Mindfulness and Meditation Sessions</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="blog.php">Blog</a></li>
+                                    <li class=""><a href="blog.php">Blog</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
